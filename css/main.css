@@ -2,7 +2,7 @@
 @import url(reset.css);
 @import url('https://fonts.googleapis.com/css?family=Righteous&display=swap');
 
-* { cursor: url(../img/tr.png), auto; }
+* { cursor: url(../img/cur1.png), auto; }
 
 body { font:12px/1.6 arial; color:#555;}
 
